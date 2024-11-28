@@ -16,7 +16,7 @@ This project provides a controlled environment for premature infants, integratin
 - Actuators: Fan, Humidifier, Sprinkler System  
 
 **How to Run:**  
-1. Clone the repository: `git clone https://github.com/your-username/smart-baby-incubator.git`  
+1. Clone the repository: `git clone https://github.com/Engr-Wadood/smart-baby-incubator.git`  
 2. Upload the Arduino code to the microcontroller.  
 3. Set up ThingSpeak for IoT monitoring.  
 
